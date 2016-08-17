@@ -1,0 +1,14 @@
+layout_spectrum: 0.6914061871357262
+typography_spectrum: 0.8445110800676048
+color:
+  brandStrength: 0.48339297203347087
+  lightness: 0.631054091732949
+  saturation: 0.8289052948821336
+  rhythmicContrast: 0.2982661335263401
+  brandColors:
+    - '#99CE9A'
+    - '#205171'
+    - '#000000'
+    - '#FFFFFF'
+    - '#5D9384'
+name: skuuper
